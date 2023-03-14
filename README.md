@@ -2,7 +2,7 @@
 Python Based game similar to higher and lower
 
 
-##Psuedo Code
+## Psuedo Code
 
 1. Random integer between 1-100 is generated
 
